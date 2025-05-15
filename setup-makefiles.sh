@@ -8,8 +8,8 @@
 
 set -e
 
-DEVICE=generic
-VENDOR=android
+DEVICE=panther
+VENDOR=google
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
